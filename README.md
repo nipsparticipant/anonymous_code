@@ -3,7 +3,7 @@ supplementary code, anonymized for NIPS submission #8290
 
 Dependencies:
   Users are recommended to create conda env from the .yml file attached
-  This code is compatible with PyTorch 1.0.0 and latest sklearn, numpy, matplotlib
+  This code is compatible with Cuda 10.0, PyTorch 1.0.0 and latest sklearn, numpy, matplotlib
 
 To deploy training code:
   Custom experiment: 
